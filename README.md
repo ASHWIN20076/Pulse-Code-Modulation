@@ -216,9 +216,8 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
+
 <img width="840" height="918" alt="Screenshot 2026-05-16 102413" src="https://github.com/user-attachments/assets/92aa0fb3-55da-43ab-97c3-fa87b5013623" />
 
-```
 # Results
 Thus, The Python program for the modulation and demodulation of PCM, and DM is verified Successfully
